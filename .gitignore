@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ColorMaker_MAUI/.vs/ProjectEvaluation
+/ColorMaker_MAUI/bin/Debug
+/ColorMaker_MAUI/obj/.cache
+/ColorMaker_MAUI/obj/Debug
+/ColorMaker_MAUI/obj
